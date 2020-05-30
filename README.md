@@ -1,4 +1,4 @@
-
+<b>Carrinho de compras feito com JS PURO<b>
 
     O projeto está sendo feito ao encerramento do módulo de JavaScript do curso da B7 Web.
     
@@ -9,7 +9,7 @@
    
    
 
-<b>Instalação<b>
+Instalação
 
   Executar junto com os arquivos do projeto o arquivo INDEX.html
 
