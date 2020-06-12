@@ -1,4 +1,4 @@
-<b>Carrinho de compras feito com JS PURO<b>
+<b>Carrinho de compras feito com JS PURO</b>
 
     O projeto está sendo feito ao encerramento do módulo de JavaScript do curso da B7 Web.
     
@@ -7,7 +7,8 @@
 
    Possui o objetivo de funcionar como um carrinho de compras de pizzas, o cliente escolhe as pizzas que ele quer e ao final            o carrinho devolve o valor das pizzas juntamente com o sabores e tamanho que foi escolhido.
    
-   
+Status do Projeto: Em desenvolvimento :warning:
+
 
 Instalação
 
