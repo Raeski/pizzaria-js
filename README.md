@@ -1,8 +1,10 @@
 # Carrinho de compras
-    
-<span style="display:block;align-items:center";>![](https://user-images.githubusercontent.com/46768410/87262737-70cce680-c491-11ea-8703-1b5fe9ee2594.gif)</span>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46768410/87262737-70cce680-c491-11ea-8703-1b5fe9ee2594.gif" alt="Sublime's custom image"/>
+</p>
 
+# Sobre o Projeto
 
 <p align="justify">Essa aplicação foi feita com intuito de simular um carrinho de compras, adicionando e removendo as pizzas do carrinho, escolher seu tamanho, e apresentando o valor final, nenhum framework foi utilizado, apenas com JS puro.</p>
 
