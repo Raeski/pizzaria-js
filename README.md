@@ -1,25 +1,31 @@
-<b>Carrinho de compras feito com JS PURO</b>
-
-    O projeto está sendo feito ao encerramento do módulo de JavaScript do curso da B7 Web.
+# Carrinho de compras
     
-[![projeto.png](https://i.postimg.cc/fyhmhKH4/projeto.png)](https://postimg.cc/sQwvYpdK)
+![align-items="center"](https://user-images.githubusercontent.com/46768410/87262737-70cce680-c491-11ea-8703-1b5fe9ee2594.gif)
 
 
-   Possui o objetivo de funcionar como um carrinho de compras de pizzas, o cliente escolhe as pizzas que ele quer e ao final            o carrinho devolve o valor das pizzas juntamente com o sabores e tamanho que foi escolhido.
-   
+<p align="justify">Essa aplicação foi feita com intuito de simular um carrinho de compras, adicionando e removendo as pizzas do carrinho, escolher seu tamanho, e apresentando o valor final, nenhum framework foi utilizado, apenas com JS puro.</p>
 
+> Status do Projeto: Concluido :heavy_check_mark:
 
+## Tecnologias Utilizadas
 
-Instalação
+ * HTML
+ * CSS
+ * JavaScript
+ * Página Responsiva
 
-  Executar junto com os arquivos do projeto o arquivo INDEX.html
+### Instalação
 
+No Terminal, clone o projeto:
 
+ > git clone https://github.com/Raeski/pizzaria-js.git
+ 
+Entre na pasta em que o projeto foi baixado:
 
-Contributing
+ > cd pizzaria-js.git 
+ 
+ > execute o index.html:
 
-    Faça o fork do projeto (https://github.com/yourname/yourproject/fork)
-    Crie uma branch para sua modificação (git checkout -b feature/fooBar)
-    Faça o commit (git commit -am 'Add some fooBar')
-    Push (git push origin feature/fooBar)
-    Crie um novo Pull Request
+---
+
+<p>Feito por <b>Gustavo Raeski</b>  :octocat: | <a href="https://www.linkedin.com/in/gustavo-raeski/">Entre em contato</a></p>
