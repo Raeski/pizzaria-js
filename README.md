@@ -1,6 +1,6 @@
 # Carrinho de compras
     
-<span style="display:block;text-align:center">![](https://user-images.githubusercontent.com/46768410/87262737-70cce680-c491-11ea-8703-1b5fe9ee2594.gif)</span>
+<span style="display:block;align-items:center";>![](https://user-images.githubusercontent.com/46768410/87262737-70cce680-c491-11ea-8703-1b5fe9ee2594.gif)</span>
 
 
 
