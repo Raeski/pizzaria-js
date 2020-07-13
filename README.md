@@ -1,6 +1,6 @@
 # Carrinho de compras
     
-![align-items="center"](https://user-images.githubusercontent.com/46768410/87262737-70cce680-c491-11ea-8703-1b5fe9ee2594.gif)
+![](https://user-images.githubusercontent.com/46768410/87262737-70cce680-c491-11ea-8703-1b5fe9ee2594.gif)
 
 
 <p align="justify">Essa aplicação foi feita com intuito de simular um carrinho de compras, adicionando e removendo as pizzas do carrinho, escolher seu tamanho, e apresentando o valor final, nenhum framework foi utilizado, apenas com JS puro.</p>
